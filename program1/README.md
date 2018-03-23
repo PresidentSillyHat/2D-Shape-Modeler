@@ -43,7 +43,7 @@ Modify Mode:
 	"-":scales shape down
 	"=":scales shape up (make big)
 	
-## Write up
+## Image Explanation
  I made a hexagon surrounded by multicolored triangles because I think it showed off alot 
  about my program. I made the hexagon by giving my circle 6 sides, the triangles were colored and
  rotated on input, then moved and sized into place with modify. I recolored the hexagon with modify
@@ -55,5 +55,4 @@ Modify Mode:
  instead of manipulating the individual shapes into place so I won't need to deal with gaps.
 
 ## Source Notes
-You mentioned I could use the library files you provided for lab 5 (matrix, shape, uniform, etc) so I did, I changed shape and matrix a bit
-to suit what I needed to do. They are in program directory in the lib folder.
+Lib files used for this were intentionally left out to prevent copying incase this assignment is used again. Downside of public repos
